@@ -1,0 +1,42 @@
+# project:
+#   type: book
+#   output-dir: _book
+# book:  
+#   title: "Statistical Methods for Quantitative Data Analysis"
+#   reader-mode: true
+# 
+# 
+# page-footer:
+#     left: |
+#       Statistical Methods for Quantitative Data Analysis (1e) was written by Martin Nyamu.
+#     right: |
+#       This book was built with <a href="https://quarto.org/">Quarto</a>.
+#   repo-url: https://github.com/analystnyamu/Statistical_Analysis/STATISTICAL_ANALYSIS/
+#   repo-branch: main
+#   repo-actions: [edit, issue]
+#   chapters:
+#     - index.qmd
+#     - preface-1e.qmd
+#     - intro.qmd
+# 
+# format:
+#   html:
+#     theme:
+#       - cosmo
+#       - SM4QDA.scss
+#     code-link: true
+# 
+#     author-meta: "Martin Nyamu"
+#     include-in-header: "plausible.html"
+#     callout-appearance: simple
+# 
+# editor: visual
+  
+  book_filename: "Statistical Methods for Quantitative Data Analysis-SM4QDA"
+repo: "https://github.com/analystnyamu/Statistical_Analysis""
+edit: "https://github.com/analystnyamu/Statistical_Analysis/STATISTICAL_ANALYSIS/"
+output_dir: "_book"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "

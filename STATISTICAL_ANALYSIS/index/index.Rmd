@@ -1,0 +1,32 @@
+---
+title: "Statistical Methods for Quantitative Data Analysis"
+author: "Martin Nyamu"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+#bibliography: book.bib
+biblio-style: apalike
+#link-citations: yes
+description: "This is book is a quantitative data analysis manual for researchers, epidemiologist, data scientist, and students and any other interested in analysis."
+#bibliography: references.bib
+---
+
+## \# Welcome {.unnumbered}
+
+This is the website for the 1st edition of \*\*"Statistical Methods for Quantitative Data Analysis"\*\*.
+
+This book guides you during data analysis using quantitative data. You will learn how to select an appropriate statistical method for data analysis based on the level of measurement of the data. The book will incorporate different examples using R statistical software.
+
+In this book, you will find a practicum of knowledge and skills about statistical methods for quantitative data analysis.
+
+Just as a keyboardist learns how to use different musical keys appropriately based on the type of music, you will learn how and when to use different statistical methods during data analysis based on the type of data and design of study.
+
+Statistical significance of results is an essential component in hypothesis testing that helps in drawing appropriate conclusions in a research study. In this regard, selecting an appropriate statistical test when analyzing quantitative data is essential in addressing the study objectives backed up by accurate results of the study. Moreover, the choice of appropriate study design dictates the selection of sampling techniques and statistical tests to ensure the reliability and validity of the results by helping minimize the risk of research bias and manage the effect of extraneous variables[@mishra2019].
+
+The physical copy of this book can be obtained on If you'd like a physical copy of the book, you can order it on \[Amazon\].
+
+If you find the book helpful and a great benefit after reading for free and you would like to appreciate through a donation.
+
+\## Acknowledgements {.unnumbered}
+
+SM4QDA is hosted by \<https://www.netlify.com\> as part of their support of open source software and communities.

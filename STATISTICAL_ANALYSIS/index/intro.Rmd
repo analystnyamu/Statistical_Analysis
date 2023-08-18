@@ -1,0 +1,15 @@
+## \# Introduction
+
+\*\*Learning objectives:\*\*
+
+\- Describe a \*typical\* data science project.
+
+\- Explain the reasoning behind the order of content in this book.
+
+\- Recognize topics that are not covered by this book.
+
+\- Set up an environment in which you can learn the topics in this book.
+
+\- Describe how code in the book differs from code in your console.
+
+\## A typical data science project

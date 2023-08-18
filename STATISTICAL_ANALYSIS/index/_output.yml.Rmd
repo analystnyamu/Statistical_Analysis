@@ -1,0 +1,12 @@
+bookdown::gitbook:
+  css: style.css
+  split_by: section
+  config:
+    toc:
+    edit:
+      link: https://github.com/analystnyamu/Statistical_Analysis/STATISTICAL_ANALYSIS
+      text: "Edit"
+    sharing:
+      github: yes
+      facebook: no
+      twitter: no
